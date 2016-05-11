@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "A test post"
 date:   2016-05-11 17:50:00
 categories: main
 ---
