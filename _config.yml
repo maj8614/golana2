@@ -1,13 +1,13 @@
 # Setup
-title:        Golana.net
+title:        The Analog
 tagline:      Analog tools in a digital age
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Golana
-  url:        http://www.golana.net
+  name:       The Analog
+  url:        http://www.the-analog.com
 
 # Gems
 gems:
